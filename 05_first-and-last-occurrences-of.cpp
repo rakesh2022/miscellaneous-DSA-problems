@@ -1,6 +1,8 @@
 other arraya questions
 //   https://github.com/viren-sureja/Love-Babbar-450/blob/3d4414a88d921823d2d79df61b485be6d475c8af/01_array/09_minimize_the_height.cpp
 //  https://github.com/viren-sureja/Love-Babbar-450/blob/3d4414a88d921823d2d79df61b485be6d475c8af/01_array/10_min_jumps_to_reach_end.cpp
+// https://github.com/viren-sureja/Love-Babbar-450/blob/master/01_array/12_merge_2_sorted_array.cpp
+//  https://practice.geeksforgeeks.org/problems/minimum-number-of-jumps-1587115620/1#*/
 
 
 
