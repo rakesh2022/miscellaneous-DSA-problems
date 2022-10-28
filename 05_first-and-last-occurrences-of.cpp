@@ -1,3 +1,8 @@
+other arraya questions
+//   https://github.com/viren-sureja/Love-Babbar-450/blob/3d4414a88d921823d2d79df61b485be6d475c8af/01_array/09_minimize_the_height.cpp
+
+
+
 /*
     link: https://practice.geeksforgeeks.org/problems/first-and-last-occurrences-of-x3116/1
 */
